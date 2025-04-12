@@ -46,5 +46,7 @@ The **ML Model Comparator** is a Streamlit-based web application designed to sim
 - See all the analytics of the machine learning models before and after Hyper-parameter tuning
 - Download the csv file of the **model-comparisons** by the download button at the very last
 
+Our Log File Link : https://docs.google.com/document/d/1oQ-gbJfruBNSvlu4woVlCaf2a8a6x9NTS-v0rrDYeC8/edit?usp=sharing
+
 ## Why It Matters
 Choosing the right machine learning model and tuning its hyperparameters can be a time-consuming process. This project automates these tasks, enabling users to focus on insights and decision-making. By providing a user-friendly interface and robust evaluation metrics, the ML Model Comparator ensures that users can make informed choices about their models with minimal effort.
